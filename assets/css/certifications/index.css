@@ -1,0 +1,31 @@
+.header{
+	width:100%;
+	text-align:center;
+	background:green;
+	color:white;
+}
+
+.row{
+	text-align:center;
+	background:grey;
+}
+img{
+	width:400px;
+	height:400px;
+}
+.education{
+	width : 30%;
+	margin:auto;
+	display:inline-block;
+	padding-left:19px;
+}
+.experience{
+	width : 30%;
+	margin:auto;
+	display:inline-block;
+}
+.certifications{
+	width : 30%;
+	margin:auto;
+	display:inline-block;
+}
