@@ -4,14 +4,17 @@
 	background:green;
 	color:white;
 }
-
+body{
+    background:black;
+}
 .row{
 	text-align:center;
 	background:grey;
 }
 img{
-	width:400px;
-	height:400px;
+    margin-top:20px;
+	width:200px;
+	height:200px;
 }
 .education{
 	width : 30%;
@@ -28,4 +31,26 @@ img{
 	width : 30%;
 	margin:auto;
 	display:inline-block;
+}
+footer{
+    color:white;
+    
+}
+.footer_general_info{
+    width:28%;
+    margin:auto;
+    display:inline-block;
+    padding-left:150px;
+    padding-right:50px;
+}
+.footer_center_info{
+                           width:30%;
+                           margin:auto;
+                           display:inline-block;
+                       }
+.footer_right_info{
+                            width:25%;
+                           margin:auto;
+                           display:inline-block;
+                           float:right;
 }
